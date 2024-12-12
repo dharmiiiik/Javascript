@@ -1,0 +1,58 @@
+
+
+// let temp = "220"
+// if (temp < 18) {
+//     console.log("it's too cold . turn on heater.")
+// } else if (temp > 18 && temp < 25) {
+//     console.log("the temprature is comfortable")
+// } else {
+//     console.log("It's too hot turn on the fan")
+// }
+
+
+// // que-2 
+
+// let score = "35"
+// if (score >= 90) {
+//     console.log("Grade A")
+// } else if (score >= 75 && score <= 89) {
+//     console.log("Grade B");
+// } else if (score >= 50 && score <= 74) {
+//     console.log("Grade C");
+// } else if (score >= 35 && score <= 49) {
+//     console.log("Grade D");
+// } else {
+//     console.log("FAIL :)");
+
+// }
+
+
+// Que 3
+
+
+let light ="blue"
+if (light === "red") {
+    console.log("STOP")
+} else if (light === "yellow") {
+    console.log("Slow Down");
+} else if (light ==="green") {
+    console.log("Go");
+}else{
+    console.log("Hee Hee");
+}
+
+//Que 4
+
+let bill = 500
+if (bill < 50) {
+    console.log("no discount");
+}else if (bill >= 50 && bill<= 100) {
+    console.log("10% Discount");
+        
+}else {
+    console.log("20% DIscount");
+    
+}
+
+
+//Que 5 
