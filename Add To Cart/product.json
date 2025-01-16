@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "NIKE AIR 1",
+        "price": 7500,
+        "image": "images/img 1.png"
+    },
+    {
+        "id": 2,
+        "name": "NIKE AIR 2",
+        "price": 8500,
+        "image": "images/img 2.png"
+    },
+    {
+        "id": 3,
+        "name": "NIKE JORDAN",
+        "price": 10500,
+        "image": "images/img 3.png"
+    },
+    {
+        "id": 4,
+        "name": "NIKE AIR 3",
+        "price": 6500,
+        "image": "images/img 4.png"
+    },
+    {
+        "id": 5,
+        "name": "NIKE AIR 4",
+        "price": 6000,
+        "image": "images/img 5.png"
+    },
+    {
+        "id": 6,
+        "name": "NIKE AIR 5",
+        "price": 6900,
+        "image": "images/img 6.png"
+    },
+    {
+        "id": 7,
+        "name": "NIKE AIR 6",
+        "price": 16500,
+        "image": "images/img 7.png"
+    },
+    {
+        "id": 8,
+        "name": "NIKE AIR 7",
+        "price": 12000,
+        "image": "images/img 8.png"
+    }
+
+
+]
