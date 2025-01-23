@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>COVID-19 Tracker</h1>
+        
+        <div class="global-stats">
+            <h2>Global COVID-19 Statistics</h2>
+            <p><strong>Confirmed Cases:</strong> <span id="global-confirmed">Loading...</span></p>
+            <p><strong>Deaths:</strong> <span id="global-deaths">Loading...</span></p>
+            <p><strong>Recovered:</strong> <span id="global-recovered">Loading...</span></p>
+        </div>
+        
+        <div class="country-search">
+            <h2>Search COVID-19 Data by Country</h2>
+            <input type="text" id="country-input" placeholder="Enter country name">
+            <button onclick="fetchCountryData()">Search</button>
+            <div id="country-data"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
